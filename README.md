@@ -1,4 +1,4 @@
-### v
+### git clone https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind.git
 [Github](https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind) 
 
 - ```npm init vue@latest```
