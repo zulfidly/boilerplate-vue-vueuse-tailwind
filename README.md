@@ -6,7 +6,7 @@ git clone https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind.git
 npm install
 ```
 [Github](https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind) 
-
+- final size is about 45MB
 - ```npm init vue@latest```
 - ```cd v```
 - ```npm install```
