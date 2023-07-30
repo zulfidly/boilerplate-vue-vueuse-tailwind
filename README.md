@@ -1,6 +1,10 @@
 ```
 git clone https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind.git
 ```
+- ls, copy, then cd 'paste here'
+```
+npm install
+```
 [Github](https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind) 
 
 - ```npm init vue@latest```

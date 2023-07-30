@@ -9,13 +9,12 @@ defineProps({
 
 <template>
   <div class="greetings">
-    <h1 class="green italic">{{ msg }}</h1>
+    <h1 class="green italic tracking-widest">{{ msg }}</h1>
   </div>
 </template>
 
 <style scoped>
 h1 {
-  font-weight: 500;
   font-size: 2.6rem;
   position: relative;
   top: -10px;
