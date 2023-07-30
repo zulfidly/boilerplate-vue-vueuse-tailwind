@@ -12,7 +12,10 @@ git clone https://github.com/zulfidly/boilerplate-vue-vueuse-tailwind.git
 
 - ```npm install -D tailwindcss postcss autoprefixer```
 - ```npx tailwindcss init -p```
-- see ```content: ["./src/**/*.{vue,js}"],``` in ```tailwind.config.js```
+- see below in ```tailwind.config.js```
+```
+content: ["./src/**/*.{vue,js}"],
+```
 
 ```
 @tailwind base;
